@@ -1,0 +1,11 @@
+{
+  "name": "matrix-nodejs",
+  "version": "1.0.0",
+  "description": "CloudPloy AWS deploy-matrix reference app (Node.js)",
+  "license": "MIT",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" },
+  "engines": { "node": ">=20" }
+}
